@@ -9,7 +9,9 @@
     flex-direction: column;
     height: 400px;
     width: 100%;
-    background-image: url('./banner.png');
+
+    
+    background-image: url('../../public/assets/banner.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
